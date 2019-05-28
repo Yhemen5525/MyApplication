@@ -13,6 +13,6 @@
         android:layout_height="wrap_content"
         android:text="Page2"
         android:textColor="@color/white"
-         android:textSize="32sp" />
+        android:textSize="32sp" />
 
 </LinearLayout>
